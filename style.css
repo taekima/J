@@ -1,0 +1,23 @@
+body {
+    font-size: 15px;
+    background: linear-gradient(rgb(244, 164, 255), rgb(255, 202, 206));
+    background-repeat: no-repeat;
+}
+
+.sentence {
+    text-indent: 40px;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    justify-content: center;
+    align-items: center;
+}
+
+.lea {
+    margin-left: 90%;
+}
+
